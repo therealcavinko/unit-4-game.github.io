@@ -1,0 +1,44 @@
+body{
+	background-image: url("../images/boston.jpg")
+}
+
+.teamLogo{
+	height: 60px;
+	margin: 10px;
+}
+
+.logos{
+	clear: both;
+}
+
+div{
+    color: maroon;
+    background-color: limegreen;
+    padding: 10px;
+	margin: 10px;
+    width: 25%
+    
+}
+
+h1{
+	font-size: 30pt;
+}
+
+
+div.instructions{
+	width: 50%;
+}
+
+.match, .results{
+	float: left;
+	width: 15%;
+	height: 60px;
+}
+
+.player{
+	width: 15%;
+	height: 60px;
+}
+
+
+
